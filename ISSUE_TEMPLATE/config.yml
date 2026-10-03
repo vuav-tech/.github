@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Görevler ve planlama
+    url: https://app.vuav.net/gorevler
+    about: Yeni iş ve görevler GitHub issue’su olarak değil, Takım Portalı’nda açılır.
